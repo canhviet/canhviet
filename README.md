@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java, C#, Java Script**
 
-- 📫 How to reach me **canhviet.github.io/porfolio/**
+- 📫 How to reach me **https://canhviet.github.io/porfolio/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
