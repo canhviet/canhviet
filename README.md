@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Canh Viet</h1>
-- 🌱 I’m currently learning **Spring Framework**
+- 🌱 I’m currently learning **Spring**
 
 - 👨‍💻 All of my projects are available at [https://canhviet.github.io/porfolio/](https://canhviet.github.io/portfolio/)
 
