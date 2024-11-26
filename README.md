@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nguyen Canh Viet</h1>
 - 🌱 I’m currently learning **Spring Framework**
 
-- 👨‍💻 All of my projects are available at [https://canhviet.github.io/porfolio/](https://canhviet.github.io/porfolio/)
+- 👨‍💻 All of my projects are available at [https://canhviet.github.io/porfolio/](https://canhviet.github.io/portfolio/)
 
 - 📫 How to reach me **ngcanhviet@gmail.com**
 
