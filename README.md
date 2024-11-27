@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nguyen Canh Viet</h1>
 - 🌱 I’m currently learning **Spring**
 
-- 👨‍💻 All of my projects are available at [https://canhviet.github.io/porfolio/](https://canhviet.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [my_portfolio](https://canhviet.github.io/portfolio/)
 
 - 📫 How to reach me **ngcanhviet@gmail.com**
 
-- 📄 Know about my experiences [https://www.overleaf.com/read/hwwvzxtvzqyg#a43583](https://www.overleaf.com/read/hwwvzxtvzqyg#a43583)
+- 📄 Know about my experiences [latex](https://www.overleaf.com/read/hwwvzxtvzqyg#a43583)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
